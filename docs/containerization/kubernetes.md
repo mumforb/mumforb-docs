@@ -47,4 +47,30 @@ Emulate production locally. Move from Docker Compose to K8s. Create an e2e testi
 Minikube
 Docker desktop
 
+### Run in docker desktop
+
+Simple as enabling k8s inside docker desktop. Windows or Mac OS. 
+
+### Using kubectl
+
+- kubectl version 
+- kubecl cluster-info
+- kubectl get all
+kubectl run [container-name] --image=[image-name]
+kubectl port-forward [pod][ports]
+kubectl expose ...
+bubectl create [resource]
+bubectl apply [resource]
+
+alias k="kubectl"
+
+### K8s Web UI Dashboard
+
+Enable:
+- kubectl apply [dashboard-yaml-url]
+- kubectl apply -f dashboard.adminuser.yml
+- kubectl create token admin-user -n kube-system
+- kubectl proxy
+- visit the dashboard url and login
+
 
