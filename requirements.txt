@@ -1,0 +1,4 @@
+mkdocs>=1.5.3
+pymdown-extensions>=9.5.0
+Pygments>=2.13.0
+mkdocs-cinder>=1.2.0

@@ -12,7 +12,8 @@
 			"extensions": [
 				"yzhang.markdown-all-in-one",
 				"streetsidesoftware.code-spell-checker",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"hediet.vscode-drawio"
 			]
 		}
 	}
