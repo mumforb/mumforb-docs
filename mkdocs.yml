@@ -1,12 +1,3 @@
 site_name: 'mumforb docs'
 theme:
   name: material
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
