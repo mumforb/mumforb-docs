@@ -74,3 +74,9 @@ Enable:
 - visit the dashboard url and login
 
 
+## Links
+
+- https://github.com/kubernetes/examples # all kinds of official examples of how to do things - a source of truth
+- https://www.pluralsight.com/courses/kubernetes-developers-core-concepts # many of these docs came from watching this course
+- https://github.com/DanWahlin/DockerAndKubernetesCourseCode # GitHub repo with all the examples and such for this course
+
