@@ -23,7 +23,11 @@ docker logs <containerId>
 The default. Comes with everything, including a UI (at least in Windows and Mac).
 
 - docker ps -a - list all running containers
-- docker exec -it <containerId> sh # shell into a specific container
+- docker exec -it <containerId> sh # shell into a specific container (sh is the type of shell)
 - docker rmi <imageId>
 - docker images
 
+## Tips
+
+- When accessing a given resource (for example, a container) you only have to paste in the first 3 alphanumeric characters if they are unique.
+- 
