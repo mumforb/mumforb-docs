@@ -22,4 +22,4 @@ cons
 2. scaling challenges - vertical scaling is possible, horizontal scaling can be more complex
 3. development speed - initial setup and development might take longer due to the need to define a structured schema
 
-NoSQL databases are often preferrred for flexible, rapidly evolving projects, while relational database are chosen for scenarios demanding strict data integrity and structured relationships.
+NoSQL databases are often preferred for flexible, rapidly evolving projects, while relational database are chosen for scenarios demanding strict data integrity and structured relationships.
